@@ -36,11 +36,11 @@ FastAPI • .NET • REST APIs • PostgreSQL
 
 **AI**
 
-Machine Learning • FinBERT • XGBoost • LLM Integration
+Machine Learning • RAG  • LLM Integration • Langchain  • ChatBots • Vector DB
 
 **Cloud**
 
-Supabase • Docker • Azure
+Supabase • Docker • Azure • Amazon
 
 ---
 
